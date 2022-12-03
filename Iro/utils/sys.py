@@ -2,7 +2,7 @@ import time
 
 import psutil
 
-from iro.misc import _boot_
+from Iro.misc import _boot_
 
 from .formatters import get_readable_time
 
